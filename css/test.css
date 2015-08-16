@@ -1,0 +1,76 @@
+		body{
+    /*Typography Declarations */
+			margin: 0px;
+			padding: 0px;
+			color: #222222;
+			font-size: 1em;
+			font-family: "Open Sans", "Helvetica Neue", sans-serif;
+		}
+
+		.content-footer,
+		.masthead-intro,
+		.masthead-heading {
+  			text-align: center;
+		}
+
+		.masthead {
+			padding: 6em 0;
+			background-image: url('http://i140.photobucket.com/albums/r37/owned_album/download_zpsdeqno9oq.jpg');
+			background-repeat: no-repeat;
+			background-size: cover;
+			border-top: solid 1em gray;				
+		}
+
+		.masthead-intro {
+			margin-bottom: 0.1em;
+			font-family: "Gentium Book Basic", Georgia, serif;
+			font-size: 2em;
+		}
+
+		.masthead-heading {
+			margin-top: -0.2em;
+			font-family: "Open san", "Helvetica Neue", sans-serif;
+			font-weight: bold;
+			font-size: 6em;
+			letter-spacing: -0.02em;
+			text-transform: uppercase;
+		}
+
+		
+		.introduction-section,
+		.location-section,
+		.questions-section {
+			max-width: 38em;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 2em;
+		}
+
+		.content-footer {
+	
+			padding: 5em 0;
+			background-color: #594F49;			
+			font-size: 1.2em;
+
+		}
+
+		.social > li {
+			display: inline-block;
+		}
+
+		.content-footer > p {
+			color: #FFF;
+		}
+
+		.introduction-section > p,
+		.location-section > p,
+		.content-footer > p {
+	   		 font-weight: 300;
+   		 	letter-spacing: 0.05em;
+    	}
+    
+ 		.questions-section > h2 {
+	    	font-family: "Gentium Book Basic", Georgia, serif;
+		    font-size: 1.2em;
+		    font-weight: bold;
+	    }

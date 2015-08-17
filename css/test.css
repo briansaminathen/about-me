@@ -78,9 +78,17 @@
 	    }
 
 @media only screen and (max-width: 500px) {
+			.introduction-section,
+			.location-section,
+			.questions-section,
+			.content-footer {
+				padding: 0 1em;	
+			}
+
 			.masthead {
 				padding: 3em 0;
 			}
+
 			.masthead-heading {
 				font-size: 3em;
 			}

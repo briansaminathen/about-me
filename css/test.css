@@ -1,8 +1,4 @@
-		@media only screen and (max-width: 500px) {
-			.masthead-heading {
-				font-size: 1em;
-			}
-		}
+		
 
 		body{
     /*Typography Declarations */
@@ -81,3 +77,9 @@
 		    font-weight: bold;
 	    }
 
+
+@media only screen and (max-width: 500px) {
+			.masthead-heading {
+				font-size: 1em;
+			}
+		}
